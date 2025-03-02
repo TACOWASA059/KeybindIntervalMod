@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.tacowasa059.keybindinterval.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "keybindinterval.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "KeyMappingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

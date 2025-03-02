@@ -1,0 +1,152 @@
+# keybinding
+# interval: Usage time interval (tick)
+# max_time: Continuous usage time (tick)
+# if interval = -1 -> skip
+# if max_time = -1 -> skip
+## 移動
+### ジャンプ
+key.jump:
+  interval: -1
+  max_time: -1
+### スニーク
+key.sneak:
+  interval: -1
+  max_time: -1
+### ダッシュ
+key.sprint:
+  interval: -1
+  max_time: -1
+### 前進
+key.forward:
+  interval: -1
+  max_time: -1
+### 右
+key.right:
+  interval: -1
+  max_time: -1
+### 左
+key.left:
+  interval: -1
+  max_time: -1
+### 後退
+key.back:
+  interval: -1
+  max_time: -1
+
+## ゲームプレイ
+### アイテムの使用／ブロックの設置
+key.use:
+  interval: -1
+  max_time: -1
+### ブロック選択
+key.pickItem:
+  interval: -1
+  max_time: -1
+
+### 攻撃する／壊す
+key.attack:
+  interval: -1
+  max_time: -1
+
+## インベントリ
+### アイテムをオフハンドと交換
+key.swapOffhand:
+  interval: -1
+  max_time: -1
+### アイテムを捨てる
+key.drop:
+  interval: -1
+  max_time: -1
+### インベントリの開閉
+key.inventory:
+  interval: -1
+  max_time: -1
+### ホットバースロット1
+key.hotbar.1:
+  interval: -1
+  max_time: -1
+### ホットバースロット2
+key.hotbar.2:
+  interval: -1
+  max_time: -1
+### ホットバースロット3
+key.hotbar.3:
+  interval: -1
+  max_time: -1
+### ホットバースロット4
+key.hotbar.4:
+  interval: -1
+  max_time: -1
+### ホットバースロット5
+key.hotbar.5:
+  interval: -1
+  max_time: -1
+### ホットバースロット6
+key.hotbar.6:
+  interval: -1
+  max_time: -1
+### ホットバースロット7
+key.hotbar.7:
+  interval: -1
+  max_time: -1
+### ホットバースロット8
+key.hotbar.8:
+  interval: -1
+  max_time: -1
+### ホットバースロット9
+key.hotbar.9:
+  interval: -1
+  max_time: -1
+
+## クリエィティブモード
+### ホットバーの保存
+key.saveToolbarActivator:
+  interval: -1
+  max_time: -1
+### ホットバーの読み込み
+key.loadToolbarActivator:
+  interval: -1
+  max_time: -1
+## マルチプレイ
+### コマンドラインを開く
+key.command:
+  interval: -1
+  max_time: -1
+### チャットを開く
+key.chat:
+  interval: -1
+  max_time: -1
+### プレイヤーリストの表示
+key.playerlist:
+  interval: -1
+  max_time: -1
+### 社交設定画面
+key.socialInteractions:
+  interval: -1
+  max_time: -1
+
+## その他
+### スクリーンショットの撮影
+key.screenshot:
+  interval: -1
+  max_time: -1
+### フルスクリーンの切り替え
+key.fullscreen:
+  interval: -1
+  max_time: -1
+### プレイヤーの強調表示（スペクテイター）
+key.spectatorOutlines:
+  interval: -1
+  max_time: -1
+### 滑らかなカメラ動作の切り替え
+key.smoothCamera:
+  interval: -1
+  max_time: -1
+### 視点の切り替え
+key.togglePerspective:
+  interval: -1
+  max_time: -1
+### 進捗
+key.advancements:
+  interval: -1
+  max_time: -1
